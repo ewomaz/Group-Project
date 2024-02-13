@@ -1,0 +1,42 @@
+.yt{
+    margin: 5px 5px 5px 0; 
+    font-size: 16px; 
+    background-color: #616161; 
+    color: #fff; 
+    padding: 8px 16px; 
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.yt:hover{
+    background-color: #ccc;
+    color: #000;
+}
+
+#loy{
+    color: #ffffffff; 
+    background-color: #4CAF50; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin:  4px; 
+    padding: 20px 50px; 
+    text-decoration: none;
+}
+
+#loy:hover{
+    background-color: #4CAF5f;
+}
+
+#yol{
+    color: #ffffffff; 
+    background-color: #4CAF50; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin: 0 8px; 
+    padding: 20px 100px; 
+    text-decoration: none;
+}
+
+#yol:hover{
+    background-color: #4CAF5f;
+}
